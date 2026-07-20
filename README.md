@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/error404-004/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/error404-004/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/error404-004/DSA/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/error404-004/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
