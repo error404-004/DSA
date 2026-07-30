@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/error404-004/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/error404-004/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/error404-004/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/error404-004/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/error404-004/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/error404-004/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/error404-004/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/error404-004/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/error404-004/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/error404-004/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/error404-004/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
