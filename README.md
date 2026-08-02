@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/error404-004/DSA/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/error404-004/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/error404-004/DSA/tree/master/0836-rectangle-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/error404-004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/error404-004/DSA/tree/master/0151-reverse-words-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/error404-004/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
