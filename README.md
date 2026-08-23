@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/error404-004/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/error404-004/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/error404-004/DSA/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/error404-004/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/error404-004/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/error404-004/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/error404-004/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/error404-004/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/error404-004/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/error404-004/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/error404-004/DSA/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/error404-004/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
