@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/error404-004/DSA/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/error404-004/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
