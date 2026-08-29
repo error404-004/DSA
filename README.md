@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/error404-004/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/error404-004/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/error404-004/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/error404-004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/error404-004/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/error404-004/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/error404-004/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/error404-004/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/error404-004/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/error404-004/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
